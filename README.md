@@ -1,2 +1,0 @@
-# MFC
-mfc project
